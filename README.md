@@ -14,3 +14,5 @@ https://granhmtechbytes.000webhostapp.com/northstar/admin/
 ![image](https://user-images.githubusercontent.com/100862586/161495605-a3412706-b626-44b7-93a9-d262f3246add.png)
 ![image](https://user-images.githubusercontent.com/100862586/161495641-606feb3e-c7eb-45bf-8ad1-b03b3d7b9bc0.png)
 ![image](https://user-images.githubusercontent.com/100862586/161495678-d0c101b8-7e37-44e8-bb9b-d55c3bd3e11a.png)
+![image](https://user-images.githubusercontent.com/100862586/161514986-cbe7e835-c831-475e-9861-8986486577d5.png)
+![image](https://user-images.githubusercontent.com/100862586/161515015-6260684a-2736-4fd6-98ff-662c31eb16cd.png)
