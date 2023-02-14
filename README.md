@@ -1,4 +1,4 @@
-# Northstar-cooling-system-LTD-mobile-application-and-web-admin-interface
+# mobile-application-and-web-admin-interface
 a web admin interface and mobile application for Northstar cooling systems LTD.
 It specializes in the Design, Supply, Installation, repair, Maintenance and 
 Optimization of mission critical HVAC (Heating ventilation and air conditioning)
