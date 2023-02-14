@@ -28,7 +28,7 @@ Login: Admins can create an account or sign in to an existing account using thei
 Dashboard: Provides an overview of all users and their registration status.
 
 Settings: Allows admins to manage user accounts and customize system settings.
-![image](https://user-images.githubusercontent.com/100862586/161347003-4256370e-5d2c-4dc6-a952-ac3f838ba0cd.png)
+
 ![image](https://user-images.githubusercontent.com/100862586/161346375-5b454e3f-c3f4-476a-9e8c-ef9b5f07e8b1.png)
 ![image](https://user-images.githubusercontent.com/100862586/161494824-2b40aae6-d53e-430a-83e9-dae06a9b407d.png)
 ![image](https://user-images.githubusercontent.com/100862586/161495605-a3412706-b626-44b7-93a9-d262f3246add.png)
